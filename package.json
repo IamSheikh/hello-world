@@ -1,0 +1,19 @@
+{
+  "name": "@iamsheikh/hello-world",
+  "version": "1.0.0",
+  "description": "Hello World is blazingly fast JavaScript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamSheikh/hello-world.git"
+  },
+  "author": "Sheikh Taha Jameel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IamSheikh/hello-world/issues"
+  },
+  "homepage": "https://github.com/IamSheikh/hello-world#readme"
+}
