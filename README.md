@@ -15,3 +15,12 @@ const helloWorld = require("hello-world");
 
 console.log(helloWorld());
 ```
+
+You can also change languages by using an extra parameter
+
+```javascript
+helloWorld("en"); // English
+helloWorld("zh"); // Chinese
+helloWorld("ja"); // Japanese
+helloWorld("fr"); // French
+```
