@@ -1,6 +1,6 @@
 {
   "name": "@iamsheikh/hello-world",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Hello World is blazingly fast JavaScript library",
   "main": "index.js",
   "scripts": {
